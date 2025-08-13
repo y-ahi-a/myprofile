@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
-    background-image: url(image/img.jpeg);
+    background-image: url(img.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -125,3 +125,4 @@ body {
     100% { opacity: 0; }
 
 }
+
