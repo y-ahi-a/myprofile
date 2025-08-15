@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
-    background-image: url(img.jpeg);
+    background-image: url(image/img.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -80,15 +80,19 @@ body {
 }
 .fa-brands.fa-youtube:hover{
     color: rgb(184, 8, 8);
+    font-size: 33px;
 }
 .fa-brands.fa-discord:hover{
     color: rgb(5, 20, 99);
+    font-size: 33px;
 }
 .fa-brands.fa-instagram:hover{
     color: rgb(172, 11, 96);
+    font-size: 33px;
 }
 .fa-solid.fa-envelope:hover{
     color: rgba(53, 63, 71, 0.74);
+    font-size: 33px;
 }
 .myimages {
     padding: 10px;
@@ -125,4 +129,3 @@ body {
     100% { opacity: 0; }
 
 }
-
